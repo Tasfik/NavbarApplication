@@ -7,4 +7,4 @@
 5. Google map implemented [with route view]
 6. Fetched Gyroscope data from Firebase database
 
-<a href="url"><img src="https://user-images.githubusercontent.com/38793982/65912703-75d41400-e3f0-11e9-953f-72091c4e6f54.png" align="left" height="400" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/38793982/65912703-75d41400-e3f0-11e9-953f-72091c4e6f54.png" align="left" height="300" width="200" ></a>
