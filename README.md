@@ -1,4 +1,4 @@
-# NavbarApplication
+# Android Sensor Integrated Application
 ## Features:
 1. Accelerometer Sensor
 2. Gyroscope Sensor [senses rotation in Y axis & sends the data to Firebase Database]
